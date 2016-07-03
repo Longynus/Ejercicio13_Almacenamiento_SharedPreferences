@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio13_Almacenamiento_SharedPreferences</string>
+    <string name="button">ejecutar</string>
+    <string name="tv1">Ingrese el email:</string>
+</resources>
